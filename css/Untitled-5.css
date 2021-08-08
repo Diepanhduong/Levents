@@ -73,7 +73,7 @@ body{
 
 .menu ul li ul li{
 	border: none;
-	background-color: #ACACAC;
+	background-color: white;
 }
 
 .sub-menu{
@@ -92,7 +92,7 @@ body{
 	color: black;
 }
 .menu li:hover{
-	color: #4F4F4F;
+	color:#B8B8B8;
 	
 }
 
@@ -214,6 +214,12 @@ body{
 	margin: 20px;
 	box-sizing: border-box;
 }
+
+.footer-03 ul li{
+	display: inline;
+}
+
+
 
 .button{
   font-family: futura_xlight;
